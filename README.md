@@ -37,8 +37,8 @@ Split and merge HSV Image
 
 ##### Program:
 ```
-### Developed By: HARINI V
-### Register Number: 212222230044
+### Developed By: ARAVINDSAMY P
+### Register Number: 212222230011
 ```
 <table>
   <tr>
@@ -49,7 +49,7 @@ Split and merge HSV Image
     import cv2
     image=cv2.imread('dip.jpg',1)
     image=cv2.resize(image,(300,300))
-    cv2.imshow('HARINI V',image)
+    cv2.imshow('ARAVINDSAMY',image)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 ``` 
